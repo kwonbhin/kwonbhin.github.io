@@ -1,0 +1,73 @@
+{
+  "cards": [
+    {
+      "key": "tasks_approved",
+      "label": "핵심 과제 마스터 승인",
+      "source": "내 제출 현황 (2026-10-07 기준)",
+      "unit": "/ 11개",
+      "value": 11
+    },
+    {
+      "key": "attendance_rate",
+      "label": "출석률",
+      "source": "내 출석 기록 (2026-10-07 기준)",
+      "unit": "%",
+      "value": 94.4
+    },
+    {
+      "key": "attended",
+      "label": "출석",
+      "source": "내 출석 기록 (2026-10-07 기준)",
+      "unit": "/ 재적일 36일 (결석 1)",
+      "value": 34
+    },
+    {
+      "key": "ritual_pairs",
+      "label": "아침·마무리를 모두 남긴 날",
+      "source": "리추얼 기록 (ritual.txt, 2026-08-13~2026-10-07)",
+      "unit": "/ 35일",
+      "value": 35
+    },
+    {
+      "key": "ritual_weeks",
+      "label": "기록이 있는 주",
+      "source": "리추얼 기록 (ritual.txt, 2026-08-13~2026-10-07)",
+      "unit": "주 연속",
+      "value": 9
+    },
+    {
+      "key": "strength_done",
+      "label": "강점 행동 '실천했다'",
+      "source": "리추얼 기록 (ritual.txt, 2026-08-13~2026-10-07)",
+      "unit": "일 (일부 실천 6일)",
+      "value": 29
+    },
+    {
+      "key": "peer_words",
+      "label": "동료가 말해 준 내 장점",
+      "source": "리추얼 기록 (ritual.txt, 2026-08-13~2026-10-07)",
+      "unit": "개",
+      "value": 62
+    },
+    {
+      "key": "ritual_days",
+      "label": "리추얼을 남긴 날",
+      "source": "리추얼 기록 (ritual.txt, 2026-08-13~2026-10-07)",
+      "unit": "일",
+      "value": 35
+    },
+    {
+      "key": "breath",
+      "label": "아침 호흡 누적",
+      "source": "리추얼 기록 (ritual.txt, 2026-08-13~2026-10-07)",
+      "unit": "분",
+      "value": 85.0
+    }
+  ],
+  "meta": {
+    "기준일": "2026-10-07",
+    "마무리": 35,
+    "아침": 35,
+    "첫 기록": "2026-08-13"
+  }
+}
